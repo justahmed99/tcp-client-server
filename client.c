@@ -5,7 +5,6 @@
 #include <unistd.h>
 #include <string.h>
 
-#define IP_ADDRESS "127.0.0.1"
 #define PORT 8080
 
 int check_if_file_existed(const char *filename);
